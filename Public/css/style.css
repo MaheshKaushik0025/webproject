@@ -1,0 +1,41 @@
+h2{
+    color: red;
+    
+}
+.about {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+  }
+  
+  .about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .about ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .about li {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .about li i {
+    color: #1abc9c;
+    margin-right: 10px;
+  }
+  
+  .about img {
+    max-width: 100%;
+  }
+  
